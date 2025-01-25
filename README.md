@@ -142,5 +142,4 @@ En combinant l'analyse statique avec Pylint et le profilage dynamique, vous pouv
 - Identifier et corriger les problèmes de performance.
 - Garantir un code propre, maintenable et performant.
 
-N’oubliez pas d’intégrer ces outils dans vos processus de développement pour des résultats optimaux.
 
